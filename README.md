@@ -1,5 +1,7 @@
 GIT_AUTHOR_DATE='Fri Jul 26 19:32:10 2017 -0400'  gca -m 'committing in the past 10 days back' --date '10 days ago'
 
+GIT_AUTHOR_DATE='Fri Jul 26 19:32:10 2017 -0400'  gca -m 'committing in the past 10 days back' --date '10 days ago'
+
 test :xOverview
 ========
 
